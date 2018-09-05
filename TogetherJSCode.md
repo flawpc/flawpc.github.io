@@ -1,0 +1,7 @@
+﻿<script>
+  // TogetherJS configuration would go here, but we'll talk about that
+  // later
+</script>
+<script src="https://togetherjs.com/togetherjs-min.js"></script>
+
+<button onclick="TogetherJS(this); return false;">Start TogetherJS</button>
